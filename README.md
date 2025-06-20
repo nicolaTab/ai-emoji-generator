@@ -1,4 +1,3 @@
-````markdown
 # 🤖 AI Emoji Generator
 
 Transform any sentence into a mood-matching emoji sequence! 🎯
@@ -88,5 +87,3 @@ Made with ❤️ by [Nicola Tabbah](https://github.com/nicolaTab)
 ## 📜 License
 
 This project is licensed under the MIT License.
-
-```
